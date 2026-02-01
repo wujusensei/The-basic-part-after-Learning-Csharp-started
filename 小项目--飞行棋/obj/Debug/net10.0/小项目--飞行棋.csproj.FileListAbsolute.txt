@@ -1,0 +1,14 @@
+C:\Users\32492\source\repos\小项目--飞行棋\bin\Debug\net10.0\小项目--飞行棋.exe
+C:\Users\32492\source\repos\小项目--飞行棋\bin\Debug\net10.0\小项目--飞行棋.deps.json
+C:\Users\32492\source\repos\小项目--飞行棋\bin\Debug\net10.0\小项目--飞行棋.runtimeconfig.json
+C:\Users\32492\source\repos\小项目--飞行棋\bin\Debug\net10.0\小项目--飞行棋.dll
+C:\Users\32492\source\repos\小项目--飞行棋\bin\Debug\net10.0\小项目--飞行棋.pdb
+C:\Users\32492\source\repos\小项目--飞行棋\obj\Debug\net10.0\小项目--飞行棋.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32492\source\repos\小项目--飞行棋\obj\Debug\net10.0\小项目--飞行棋.AssemblyInfoInputs.cache
+C:\Users\32492\source\repos\小项目--飞行棋\obj\Debug\net10.0\小项目--飞行棋.AssemblyInfo.cs
+C:\Users\32492\source\repos\小项目--飞行棋\obj\Debug\net10.0\小项目--飞行棋.csproj.CoreCompileInputs.cache
+C:\Users\32492\source\repos\小项目--飞行棋\obj\Debug\net10.0\小项目--飞行棋.dll
+C:\Users\32492\source\repos\小项目--飞行棋\obj\Debug\net10.0\refint\小项目--飞行棋.dll
+C:\Users\32492\source\repos\小项目--飞行棋\obj\Debug\net10.0\小项目--飞行棋.pdb
+C:\Users\32492\source\repos\小项目--飞行棋\obj\Debug\net10.0\小项目--飞行棋.genruntimeconfig.cache
+C:\Users\32492\source\repos\小项目--飞行棋\obj\Debug\net10.0\ref\小项目--飞行棋.dll

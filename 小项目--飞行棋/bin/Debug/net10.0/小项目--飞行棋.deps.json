@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "小项目--飞行棋/1.0.0": {
+        "runtime": {
+          "小项目--飞行棋.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "小项目--飞行棋/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
